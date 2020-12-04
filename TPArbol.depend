@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605735684 source:c:\users\facun\onedrive\desktop\tup 2 2020\programacion 2\tparbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbol.h"
+
+1604255847 source:c:\users\facun\onedrive\desktop\tup 2 2020\programacion 2\tparbol\arbol.c
+	"Arbol.h"
+
+1604264684 c:\users\facun\onedrive\desktop\tup 2 2020\programacion 2\tparbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+
